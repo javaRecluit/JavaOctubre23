@@ -1,8 +1,6 @@
 package common;
 
-public class Principal {
-
-	
+public class Principal {	
 	public static void main(String[] args) {
 		System.out.println("esto es una prueba");
 	}
@@ -22,11 +20,4 @@ public class Principal {
 	// caracater y boleanos
 	char c = 'c';
 	boolean flag = true;
-	
-	
-	//Wrappers
-
-	
-	
-	
 }
